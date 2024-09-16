@@ -1,7 +1,5 @@
 # Dependencias
 node_modules/
-tetrisjs/
-calculatorjs/
 
 # Archivos de log
 logs

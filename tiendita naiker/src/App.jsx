@@ -17,7 +17,7 @@ const PageWrapper = ({ children }) => {
       animate="in"
       exit="out"
       variants={pageVariants}
-      transition={{ duration: 0.2 }}
+      transition={{ duration: 0.4 }}
       style={{
         position: 'absolute',
         width: '100%',

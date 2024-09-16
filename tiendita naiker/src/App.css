@@ -18,3 +18,14 @@ body {
 }
 
 /* Más estilos específicos aquí */
+
+.productos-page {
+  padding: 20px;
+}
+
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
